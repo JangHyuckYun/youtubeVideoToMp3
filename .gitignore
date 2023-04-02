@@ -1,0 +1,9 @@
+.idea
+
+*/.env
+*/*.env
+
+*/envs/.env
+*/envs/*.env
+
+*/node_modules
