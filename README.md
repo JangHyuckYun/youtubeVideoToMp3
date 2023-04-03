@@ -32,3 +32,5 @@
      - 유튜브 mp4 다운로더: **'ytdl-core'**
      - 유튜브 영상 검색: **'youtube-search-api'**
      - mp4 to mp3: **'ffmpeg'**
+ - 배포 환경
+   - Ubuntu
