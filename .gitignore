@@ -3,7 +3,10 @@
 */.env
 */*.env
 
+*/envs
 */envs/.env
 */envs/*.env
 
 */node_modules
+
+*/build
